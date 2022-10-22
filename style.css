@@ -1,0 +1,37 @@
+#back{
+    background-color:#0e2a53 ;
+}
+#front{
+    color: wheat;
+    text-align: center;
+    background: url('file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/amweb/Background (2).jpg')no-repeat;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    
+}
+#Biltu{
+    color: yellow;
+}
+#article1{
+    color: white;
+    text-align: center;
+    background-color: #0e4c53;
+    border-radius:12px ;
+}
+#photo{
+    background: url('file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/amweb/Animi.png')no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+#haeding{
+    color:black;
+    text-align: center;
+    background-color: yellow;
+    border-style: solid;
+    border-color: blue;
+    border-radius:12px ;
+}
+#button{
+  color: red;
+}
